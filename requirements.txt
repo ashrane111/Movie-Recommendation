@@ -1,0 +1,7 @@
+pandas==2.2.3
+plotly
+scikit-learn
+scikit-surprise
+streamlit
+kagglehub
+numpy
