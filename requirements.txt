@@ -4,4 +4,5 @@ scikit-learn
 scikit-surprise
 streamlit
 kagglehub
-numpy
+numpy<2.0
+
